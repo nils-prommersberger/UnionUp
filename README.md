@@ -87,34 +87,7 @@ Please include:
 4. **Expected Behavior**: What you expected to happen
 5. **Actual Behavior**: What actually happened
 6. **Screenshots/Videos**: If applicable, add visual evidence
-7. **Additional Context**: Any other relevant information
-
-#### Bug Report Template
-
-```markdown
-**Platform:** [iOS/Android/Web] - Version: [e.g., iOS 17.0]
-
-**Description:**
-[Clear description of the bug]
-
-**Steps to Reproduce:**
-1. Go to '...'
-2. Click on '...'
-3. Scroll down to '...'
-4. See error
-
-**Expected Behavior:**
-[What should happen]
-
-**Actual Behavior:**
-[What actually happens]
-
-**Screenshots:**
-[If applicable]
-
-**Additional Context:**
-[Any other information]
-```
+7. **Additional Context**: Any other relevant information``
 
 ### Feature Requests
 
@@ -124,22 +97,6 @@ Please include:
 2. **Proposed Solution**: How would you like it to work?
 3. **Alternatives Considered**: Any alternative solutions you've thought of
 4. **Additional Context**: Mockups, examples, or references
-
-#### Feature Request Template
-
-```markdown
-**Problem:**
-[What problem are you trying to solve?]
-
-**Proposed Solution:**
-[How would you like it to work?]
-
-**Alternatives Considered:**
-[Any other approaches you've thought of]
-
-**Additional Context:**
-[Mockups, examples, or references]
-```
 
 ---
 
