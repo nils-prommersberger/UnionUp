@@ -159,9 +159,6 @@ Please include:
 | `area:users` | Related to user management |
 | `area:events` | Related to event features |
 | `area:roles` | Related to role/permission features |
-| `priority:high` | Critical issue |
-| `priority:medium` | Important but not critical |
-| `priority:low` | Nice to have |
 
 ---
 
