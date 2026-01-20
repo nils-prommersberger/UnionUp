@@ -2,6 +2,8 @@
 
 **A comprehensive management platform for unions, clubs, and community organizations.**
 
+> **Note:** UnionUp is currently in a closed testing phase. Access is limited to selected pilot organizations.
+
 UnionUp is a cross-platform application (iOS, Android, Web) designed to help community organizations manage their finances, inventory, members, roles, and events in one centralized place.
 
 Each member has their own secure login and personal wallet within the organization, making it easy to track individual balances, purchases, and contributions.
@@ -87,7 +89,34 @@ Please include:
 4. **Expected Behavior**: What you expected to happen
 5. **Actual Behavior**: What actually happened
 6. **Screenshots/Videos**: If applicable, add visual evidence
-7. **Additional Context**: Any other relevant information``
+7. **Additional Context**: Any other relevant information
+
+#### Bug Report Template
+
+```markdown
+**Platform:** [iOS/Android/Web] - Version: [e.g., iOS 17.0]
+
+**Description:**
+[Clear description of the bug]
+
+**Steps to Reproduce:**
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
+
+**Expected Behavior:**
+[What should happen]
+
+**Actual Behavior:**
+[What actually happens]
+
+**Screenshots:**
+[If applicable]
+
+**Additional Context:**
+[Any other information]
+```
 
 ### Feature Requests
 
@@ -97,6 +126,22 @@ Please include:
 2. **Proposed Solution**: How would you like it to work?
 3. **Alternatives Considered**: Any alternative solutions you've thought of
 4. **Additional Context**: Mockups, examples, or references
+
+#### Feature Request Template
+
+```markdown
+**Problem:**
+[What problem are you trying to solve?]
+
+**Proposed Solution:**
+[How would you like it to work?]
+
+**Alternatives Considered:**
+[Any other approaches you've thought of]
+
+**Additional Context:**
+[Mockups, examples, or references]
+```
 
 ---
 
@@ -116,6 +161,9 @@ Please include:
 | `area:users` | Related to user management |
 | `area:events` | Related to event features |
 | `area:roles` | Related to role/permission features |
+| `priority:high` | Critical issue |
+| `priority:medium` | Important but not critical |
+| `priority:low` | Nice to have |
 
 ---
 
