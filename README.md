@@ -4,12 +4,16 @@
 
 UnionUp is a cross-platform application (iOS, Android, Web) designed to help community organizations manage their finances, inventory, members, roles, and events in one centralized place.
 
+Each member has their own secure login and personal wallet within the organization, making it easy to track individual balances, purchases, and contributions.
+
 ---
 
 ## Features
 
 ### Financial Management
-- **Multi-Wallet System**: Personal member wallets, organization wallets, and asset tracking wallets
+- **Personal Member Wallets**: Every member automatically gets their own wallet to track their balance (prepaid credits, debts, deposits)
+- **Organization Wallets**: Separate wallets for different purposes (e.g., "Bar Revenue", "Event Fund", "Membership Fees")
+- **Asset Wallets**: Track the value of equipment and inventory
 - **Transaction Tracking**: Full double-entry bookkeeping with split transaction support
 - **Transaction History**: Complete audit trail with configurable reversal timeframes
 
